@@ -2,7 +2,7 @@
 layout: main
 ---
 
-### Home
+### Archives
 
 ## Blog
 
