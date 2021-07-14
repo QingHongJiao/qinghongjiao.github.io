@@ -1,0 +1,33 @@
+---
+title: family
+layout: default
+tags: [family, child,家]
+blog_post: true
+---
+
+孩子，家
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)  
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)  
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)  
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
+这是一个链接 [菜鸟教程](https://www.runoob.com)
+
+* 孩子7岁前，家是全部
+* 7岁到13岁，家是晚上
+* 13岁到18岁,家是周末
+* 18岁到23岁,家是寒暑假
+* 23岁以后，家只是春节
+* 你和孩子的缘分
+* 就是今生今世不断的目送他的背影渐行渐远
+* 你站在小路的这一端
+* 看着他逐渐消失在小路转弯的地方
+* 而他，用背影告诉你，
+* 不必追！
+* 且行且珍惜！
