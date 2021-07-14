@@ -4,7 +4,13 @@ layout: main
 
 ## About
 
-Hi! I am Ankit and welcome to this ever so unkempt corner of the internet that is my blog.
-You can find my incoherent ramblings about things like books, tech, music, etc.
+ * 癸亥年癸亥月癸亥日丙辰时出生
+ * 属相：属猪
+ * 纳音：大海水大海水大海水沙中土
+ * 五行：水水水水水水火土
 
-I am currently working as a software engineer at Uber which takes up most of my weekdays.
+> ①真挚、诚实、有同情心。
+> ②精力旺盛，待人诚实。
+> ③专心致志，凡事热心。
+> ④信任别人，开朗乐观。
+> 弱点：易动感情，固执保守，目光短浅，有时脾气不稳。
