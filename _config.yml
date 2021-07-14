@@ -1,6 +1,6 @@
 title: Ankit Sultana
-url: "https://icp.me"
-baseurl: "/ankitsultana"
+url: "https://qinghingjiao.com"
+# baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -20,17 +20,17 @@ sass:
 
 nav:
   - name: "Home"
-    link: "/ankitsultana"
+    link: "/"
   - name: "Blog"
-    link: "/ankitsultana/blog"
+    link: "/blog"
   - name: "Post"
-    link: "/ankitsultana/post"
+    link: "/post"
   - name: "Show"
-    link: "/ankitsultana/show"
+    link: "/show"
   - name: "Projects"
-    link: "/ankitsultana/projects"
+    link: "/projects"
   - name: "About"
-    link: "/ankitsultana/about"
+    link: "/about"
 # 翻页 路径 
   
 paginate: 6
