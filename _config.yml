@@ -3,7 +3,7 @@ url: "https://qinghongjiao.com"
 # baseurl: "/"
 
 markdown: kramdown
-ins_logo: "/images/bits-logo.png"
+# ins_logo: "/images/bits-logo.png"
 
 tracking_id: UA-69243
 
