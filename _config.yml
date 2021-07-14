@@ -1,0 +1,38 @@
+title: Ankit Sultana
+url: "https://icp.me"
+baseurl: "/ankitsultana"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: UA-69243
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/ankitsultana.github.io"
+footer_text: "This is a custom-built theme for Jekyll. Please report any issues on GitHub."
+
+favicon: true
+favicon_location: "images/favicon.png"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+  - name: "Home"
+    link: "/ankitsultana"
+  - name: "Blog"
+    link: "/ankitsultana/blog"
+  - name: "Post"
+    link: "/ankitsultana/post"
+  - name: "Show"
+    link: "/ankitsultana/show"
+  - name: "Projects"
+    link: "/ankitsultana/projects"
+  - name: "About"
+    link: "/ankitsultana/about"
+# 翻页 路径 
+  
+paginate: 6
+
+permalink: /:title.html
