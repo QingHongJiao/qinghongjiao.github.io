@@ -1,6 +1,6 @@
 ---
 title: md文件插入视频，MP3,GIF
-layout: blog
+layout: default
 tags: [video, MP3,GIF]
 blog_post: true
 ---
