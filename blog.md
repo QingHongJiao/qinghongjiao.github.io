@@ -3,15 +3,7 @@ layout: default
 ---
 ## Blog
 
-I started reading regularly in Dec'2019 and have not stopped since. I enjoy fiction the most
-but occasionally also try books around personal-development, biographies, etc.
-
-I use this page to get myself into the habit of writing more. Below you can find
-a list of my recommended books; books that I have read recently; and, some
-random ramblings around the same.
-
-I am quite active on [Goodreads](https://www.goodreads.com/user/show/33989424-ankit-sultana)
-as well.
+语录，感悟，人生，分享……
 
 ---
 
