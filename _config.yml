@@ -1,9 +1,9 @@
-title: Ankit Sultana
+title: 青红椒
 url: "https://qinghingjiao.com"
 # baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "/bits-logo.png"
 
 tracking_id: UA-69243
 
