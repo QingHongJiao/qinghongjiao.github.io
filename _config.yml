@@ -1,4 +1,4 @@
-title: 青红椒
+title: 靑紅椒
 url: "https://qinghongjiao.com"
 # baseurl: "/"
 
@@ -9,7 +9,8 @@ tracking_id: UA-69243
 
 footer: yes
 # footer_url: "https://github.com/ankitsultana/ankitsultana.github.io"
-footer_text: "WeChat.QingHongJiao"  </p><script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1280111204&web_id=1280111204"></script><p>
+footer_text: "WeChat.QingHongJiao"  
+# </p><script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1280111204&web_id=1280111204"></script><p>
 
 favicon: true
 favicon_location: "images/favicon.png"
