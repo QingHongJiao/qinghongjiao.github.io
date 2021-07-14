@@ -29,8 +29,8 @@ nav:
     link: "/show"
   - name: "Projects"
     link: "/projects"
-  - name: "About"
-    link: "/about"
+  - name: "Archives"
+    link: "/archives"
 # 翻页 路径 
   
 paginate: 6
