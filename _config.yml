@@ -10,7 +10,13 @@ tracking_id: UA-69243
 footer: yes
 # footer_url: "https://github.com/ankitsultana/ankitsultana.github.io"
 footer_text: "WeChat.QingHongJiao"  
-# </p><script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1280111204&web_id=1280111204"></script><p>
+
+<div class="footer">©️2021.
+    <!-- 站长统计 -->
+    <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280111204'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1280111204' type='text/javascript'%3E%3C/script%3E"));</script>
+    <!-- 微信 -->
+    WeChat.QingHongJiao
+    </div> 
 
 favicon: true
 favicon_location: "images/favicon.jpg"
