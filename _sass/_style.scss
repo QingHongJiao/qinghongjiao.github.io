@@ -36,8 +36,15 @@ body {
     font-family: $body-font;
     height: 100%;
 }
+/*
+none:　默认值。无装饰
+blink:　闪烁
+underline:　下划线
+line-through:　贯穿线
+overline:　上划线
+ */
 a {
-    text-decoration: none;
+    text-decoration: blink;
     color: #000000;
 }
 a:hover {
