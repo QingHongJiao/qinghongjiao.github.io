@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hans">
 
 <head>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -90,7 +90,8 @@
     </div>
     {% if site.tracking_id %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69243698-4"></script>
+    <!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -98,8 +99,14 @@
 
         gtag('config', '{{ site.tracking_id }}');
     </script>
+     -->
     {% endif %}
 </body>
 <footer>
-<div class="footer">©️2021</div> 
+<div class="footer">©️2021.
+    <!-- 站长统计 -->
+    <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1280111204'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1280111204' type='text/javascript'%3E%3C/script%3E"));</script>
+    <!-- 微信 -->
+    WeChat.QingHongJiao
+    </div> 
 </footer>
